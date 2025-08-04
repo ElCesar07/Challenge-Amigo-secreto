@@ -1,6 +1,6 @@
 # Amigo Secreto 🎁
 
-Aplicación web sencilla para organizar un sorteo de "Amigo Secreto" entre amigos.
+Aplicación web para organizar el sorteo de "Amigo Secreto" entre amigos.
 
 ## Descripción
 
@@ -39,5 +39,6 @@ Permite a los usuarios ingresar nombres de amigos en una lista y, al finalizar, 
 Desarrollado como parte de un desafío de lógica de programación.
 
 ---
+
 
 ¡Disfruta tu sorteo de
